@@ -4,6 +4,9 @@ TPSのサンプルをUE5で実装してみた。
 ## 参考
 https://www.slideshare.net/masahikonakamura50/5ue4
 
+## LFS
+Git LFS使ってます。
+
 ## 操作方法
 | キー| 操作 |
 | -------- |:-------:| 
