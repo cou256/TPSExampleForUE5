@@ -13,3 +13,4 @@ https://www.slideshare.net/masahikonakamura50/5ue4
 | A| 左 |
 | D | 右 |
 | 左クリック | 射撃 |
+| 終了 | Alt+F4 |
