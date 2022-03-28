@@ -17,3 +17,6 @@ Git LFS使ってます。
 | D | 右 |
 | 左クリック | 射撃 |
 | 終了 | Alt+F4 |
+
+## THANKS
+https://twitter.com/aizen76
